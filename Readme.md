@@ -2,6 +2,8 @@
 
 Playing with dataset for Exploratory Data Analysis and Binary Classification.
 
+Check [Notebook](PlayGround.ipynb).
+
 # Source:
 
 The underlying records stem from the epidemiological cancer registry of the
